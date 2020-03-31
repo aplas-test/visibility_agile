@@ -1,21 +1,25 @@
 {
-  "id": "visibility_agile",
-  "name": "Visibility Agile",
-  "categoryId": "administration",
-  "description": "Robust non-volatile paradigm",
-  "investment_24m": "600",
-  "hostedtype": "Azure",
-  "licensing_cost": "117",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "20",
-  "deployment_date": "20/11/02",
-  "end_of_maintenance": "20/10/17",
-  "department": "Support",
-  "status": "Active",
-  "end_of_life": "4/3/20",
-  "sme_name": "Gael Todaro",
-  "months_to_renew_support": "14",
-  "sme_email": "Gael.Todaro@memento.net.au",
-  "investment_number": "463"
+  "applications": [
+    {
+      "id": "visibility_agile",
+      "name": "Visibility Agile",
+      "categoryId": "administration",
+      "description": "Robust non-volatile paradigm",
+      "investment_24m": "600",
+      "hostedtype": "Azure",
+      "licensing_cost": "117",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "20",
+      "deployment_date": "20/11/02",
+      "end_of_maintenance": "20/10/17",
+      "department": "Support",
+      "status": "Active",
+      "end_of_life": "4/3/20",
+      "sme_name": "Gael Todaro",
+      "months_to_renew_support": "14",
+      "sme_email": "Gael.Todaro@memento.net.au",
+      "investment_number": "463"
+    }
+  ]
 }
