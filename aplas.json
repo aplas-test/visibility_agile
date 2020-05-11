@@ -9,24 +9,23 @@
       "description": "Robust non-volatile paradigm",
       "categoryId": "administration",
       "applicationSize": "large",
-      "status": "standard",
       "licensing_cost": "117",
       "status_color": "#00FF00",
       "department": "Support",
       "hostedtype": "Azure",
       "deployment_date": "20/11/02",
-      "investment_number": "463",
+      "investment_number": 463,
       "type": "InHouseDev",
       "sme_email": "Gael.Todaro@memento.net.au",
       "investment_24m": "600",
       "sme_name": "Gael Todaro",
       "support_cost": "20",
       "end_of_life": "4/3/20",
-      "months_to_renew_support": "14",
+      "months_to_renew_support": 14,
       "end_of_maintenance": "20/10/17",
       "integrations": [
         {
-          "assetId": "int-438",
+          "id": "int-438",
           "name": "INT-438",
           "shortName": null,
           "version": "7.5.4",
@@ -34,7 +33,6 @@
           "payload": "Stock on Order",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#FFFF06",
           "department": "Integration",
@@ -47,7 +45,7 @@
           "golive_date": "12/3/15"
         },
         {
-          "assetId": "int-184",
+          "id": "int-184",
           "name": "INT-184",
           "shortName": null,
           "version": "6.5",
@@ -55,7 +53,6 @@
           "payload": "Allocation Results",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -68,7 +65,7 @@
           "golive_date": "7/2/13"
         },
         {
-          "assetId": "int-010",
+          "id": "int-010",
           "name": "INT-010",
           "shortName": null,
           "version": "0.15",
@@ -76,7 +73,6 @@
           "payload": "Location Attribute Definitions",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -89,7 +85,7 @@
           "golive_date": "28/2/03"
         },
         {
-          "assetId": "int-076",
+          "id": "int-076",
           "name": "INT-076",
           "shortName": null,
           "version": "0.2.2",
@@ -97,7 +93,6 @@
           "payload": "Store transactions",
           "targetApplicationId": "social_innovation",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -110,7 +105,7 @@
           "golive_date": "31/3/10"
         },
         {
-          "assetId": "int-484",
+          "id": "int-484",
           "name": "INT-484",
           "shortName": null,
           "version": "4.2.5",
@@ -118,7 +113,6 @@
           "payload": "ASN Verify Transactional Data",
           "targetApplicationId": "social_innovation",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Ramsey Tindle",
           "status_color": "#00FF00",
           "department": "Integration",
